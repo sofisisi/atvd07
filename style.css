@@ -1,0 +1,640 @@
+body {
+    background-color: rgb(73, 73, 221);
+}
+#um1 {
+    padding: 100px;
+    margin: 10px;
+    width: 440px;
+    background-color: yellow;
+}
+#um2 {
+    display: flex;
+}
+#um3 {
+    display: flex;
+}
+#um4 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#um5 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#um6 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#um7 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+
+
+
+#dois1 {
+    display: flex;
+}
+#dois2 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#dois3 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#dois4 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#dois5 {
+    padding: 100px;
+    margin: 10px;
+    width: 440px;
+    background-color: yellow;
+}
+#dois6 {
+    display: flex;
+}
+
+#dois7 {
+    padding: 100px;
+    margin: 10px;
+    width: 220px;
+    background-color: yellow;
+}
+#dois8 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+
+
+
+#tres1 {
+    display: flex;
+}
+#tres2 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#tres3 {
+    display: flex;
+}
+#tres4 {
+    padding: 100px;
+    margin: 10px;
+    height: 300px;
+    background-color: yellow;
+}
+#tres5 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#tres6 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+
+
+
+#quatro1 {
+    display: flex;
+}
+#quatro2 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#quatro3 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#quatro4 {
+    display: flex;
+}
+#quatro5 {
+    padding: 100px;
+    margin: 10px;
+    height: 300px;
+    background-color: yellow;
+}
+#quatro6 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+
+
+
+#cinco1 {
+    display: flex;
+}
+#cinco2 {
+    display: flex; 
+}
+#cinco3 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#cinco4 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#cinco5 {
+    padding: 100px;
+    margin: 10px;
+    height: 200px;
+    background-color: yellow;
+}
+#cinco6 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+
+
+
+#seis1 {
+    display: flex;
+}
+#seis2 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#seis3 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#seis4 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#seis5 {
+    padding: 100px;
+    margin: 10px;
+    width: 440px;
+    background-color: yellow;
+}
+#seis6 {
+    display: flex;
+}
+
+#seis7 {
+    padding: 100px;
+    margin: 10px;
+    width: 220px;
+    background-color: yellow;
+}
+#seis8 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+
+
+
+#sete1 {
+    display: flex;
+}
+#sete3 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#sete4 {
+    padding: 100px;
+    margin: 10px;
+    height: 220px;
+    background-color: yellow;
+}
+#sete6 {
+    display: flex;
+}
+#sete7 {
+    padding: 100px;
+    margin: 10px;
+    height: 210px;
+    background-color: yellow;
+}
+#sete8 {
+    padding: 100px;
+    margin: 10px;
+    height: 210px;
+    background-color: yellow;
+}
+#sete9 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+
+
+
+#oito1 {
+    padding: 100px;
+    margin: 10px;
+    width: 1px;
+    background-color: yellow;
+}
+#oito2 {
+    display: flex;
+}
+#oito3 {
+    padding: 100px;
+    margin: 10px;
+    height: 200px;
+    background-color: yellow;
+}
+#oito4 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#oito5 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+
+
+
+#nove1 {
+    padding: 100px;
+    margin: 10px;
+    width: 440px;
+    background-color: yellow;
+}
+#nove2 {
+    display: flex;
+}
+#nove3 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#nove4 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#nove5 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#nove6 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+
+
+
+#dez1 {
+    padding: 100px;
+    margin: 10px;
+    width: 440px;
+    background-color: yellow;
+}
+#dez2 {
+    display: flex;
+}
+#dez3 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#dez4 {
+    display: flex;
+}
+#dez5 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#dez6 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#dez7 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+
+
+
+#onze1 {
+    display: flex;
+}
+#onze2 {
+    padding: 100px;
+    margin: 10px;
+    width: 300px;
+    background-color: yellow;
+}
+#onze3 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#onze4 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#onze5 {
+    display: flex;
+}
+#onze6 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#onze7 {
+    padding: 100px;
+    margin: 10px;
+    width: 300px;
+    background-color: yellow;
+}
+
+
+
+#doze1 {
+    display: flex;
+}
+#doze2 {
+    padding: 100px;
+    margin: 10px;
+    width: 300px;
+    background-color: yellow;
+}
+#doze3 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#doze4 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#doze5 {
+    display: flex;
+}
+#doze6 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#doze7 {
+    padding: 100px;
+    margin: 10px;
+    width: 300px;
+    background-color: yellow;
+}
+
+
+
+#treze1 {
+    display: flex;
+}
+#treze2 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#treze3 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#treze4 {
+    display: flex;
+}
+#treze5 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#treze6 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#treze7 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+
+
+
+#quatorze1{
+    display: flex;
+}
+#quatorze2{
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#quatorze3{
+    padding: 100px;
+    margin: 10px;
+    width: 300px;
+    background-color: yellow;
+}
+#quatorze4{
+    display: flex;
+}
+#quatorze5{
+    padding: 100px;
+    margin: 10px;
+    width: 300px;
+    background-color: yellow;
+}
+#quatorze6{
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#quatorze7{
+    padding: 100px;
+    margin: 10px;
+    width: 520px;
+    background-color: yellow;
+}
+
+
+
+#quinze1{
+    display: flex;
+}
+#quinze2{
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#quinze3{
+    padding: 100px;
+    margin: 10px;
+    width: 300px;
+    background-color: yellow;
+}
+#quinze4{
+    display: flex;
+}
+#quinze5{
+    padding: 100px;
+    margin: 10px;
+    width: 300px;
+    background-color: yellow;
+}
+#quinze6 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#quinze7 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+
+
+
+#dezesseis1{
+    display: flex
+}
+#dezesseis2 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#dezesseis3 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#dezesseis4 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#dezesseis5 {
+    display: flex;
+}
+#dezesseis6 {
+    padding: 100px;
+    margin: 10px;
+    width: 220px;
+    background-color: yellow;
+}
+#dezesseis7 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#dezesseis8 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+
+
+
+#dezessete1 {
+    display: flex;
+}
+#dezessete3 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#dezessete4 {
+    padding: 100px;
+    margin: 10px;
+    height: 220px;
+    background-color: yellow;
+}
+#dezessete6 {
+    display: flex;
+}
+#dezessete7 {
+    padding: 100px;
+    margin: 10px;
+    height: 210px;
+    background-color: yellow;
+}
+#dezessete8 {
+    padding: 100px;
+    margin: 10px;
+    height: 210px;
+    background-color: yellow;
+}
+#dezessete9 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+
+
+
+#dezoito1 {
+    display: flex;
+}
+#dezoito2 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#dezoito3{
+    display: flex
+}
+#dezoito4 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#dezoito5 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#dezoito6 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
+#dezoito7{
+    display: flex;
+}
+#dezoito8 {
+    padding: 100px;
+    margin: 10px;
+    width: 220px;
+    background-color: yellow;
+}
+#dezoito9 {
+    padding: 100px;
+    margin: 10px;
+    background-color: yellow;
+}
